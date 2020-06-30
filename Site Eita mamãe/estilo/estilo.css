@@ -19,7 +19,7 @@ header {
     padding-bottom: 0px;
     margin-bottom: 0px;
 }
-#b {
+#menu {
     background-color: yellow;
     width: 100%;
     height: 50px;
@@ -28,14 +28,14 @@ header {
     padding-bottom: 0px;
 }
 
-#b li {
+#menu li {
     display: inline;
     padding: 10px;
     border-radius: 1%;
     
 }
 
-#b ul {
+#menu ul {
     position: relative;
     text-align: center;
     top: 35%;
@@ -43,14 +43,14 @@ header {
 
 }
 
-#b a {
+#menu a {
     text-decoration: none;
     color: rgb(99, 98, 98);
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: large;
 }
 
-#b li:hover {
+#menu li:hover {
     background-color: rgb(167, 166, 166);
     transition: 0.5s;
 }
